@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.top1{
+    width: 100%;
+    background-image: url(capa.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    padding: 50px 0 500px 0;
+    h1{
+        background-color: darkred;
+        margin: 0 640px;
+        font-size: 37px;
+    }
+    h2{
+        background-color: yellow;
+        margin: 0 640px;
+        font-size: 37px;
+    }
+}
+.top2{
+    margin: 50px 20%;
+    img{
+        padding: 0 3px;
+    }
+}
+.top3{
+    width: 100%;
+    background-image: url(img1.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 300px;
+}
+.top4{
+    margin: 50px 20%;
+    button{
+        background-color: darkred;
+        color: white;
+        font-size: 15px;
+        font-weight: normal;
+        padding: 10px 20px;
+        border: none;
+        cursor: pointer;
+    }
+}
